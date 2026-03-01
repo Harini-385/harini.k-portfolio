@@ -33,13 +33,6 @@ const Navbar = () => {
               {link.label}
             </a>
           ))}
-          <a
-            href="/K.Harini_Resume.pdf"
-            target="_blank"
-            className="px-4 py-2 rounded-lg bg-gradient-primary text-primary-foreground text-sm font-semibold hover:opacity-90 transition-opacity"
-          >
-            Resume
-          </a>
         </div>
 
         <button className="md:hidden text-foreground" onClick={() => setOpen(!open)}>

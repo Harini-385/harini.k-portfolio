@@ -23,7 +23,7 @@ const HeroSection = () => {
         >
           <p className="font-mono text-primary text-sm mb-4 tracking-widest uppercase">Python Backend Developer</p>
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight">
-            Hi, I'm <span className="text-gradient">Harini K</span>
+            I'm <span className="text-gradient">Harini K</span>
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 leading-relaxed">
             Aspiring backend developer passionate about building efficient, scalable server-side systems with Python, Django & FastAPI.
